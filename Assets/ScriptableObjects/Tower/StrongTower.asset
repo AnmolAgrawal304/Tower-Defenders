@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba0000d7810263447ba09e1e9ee5665f, type: 3}
+  m_Name: StrongTower
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  range: 8
+  shootInterval: 1
+  projectileSpeed: 6
+  projectileDuration: 3
+  projectileSize: 2.2
+  damage: 10
+  cost: 100
+  sprite: {fileID: 1704872509302500955, guid: 427255e4976f28e438ff7418d741756b, type: 3}
+  prefab: {fileID: 3109307405126449902, guid: 7d3cfaf977e73fa43ba56cdd2973e08c, type: 3}
+  attackSound: {fileID: 8300000, guid: 0dbafb5770c10d04b9df95d055844514, type: 3}

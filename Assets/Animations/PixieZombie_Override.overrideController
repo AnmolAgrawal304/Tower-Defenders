@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PixieZombie_Override
+  m_Controller: {fileID: 9100000, guid: 00b0c4efa2560484a81cce00d28a9248, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1d84eb7bcc037b14ebe85a3744f49abe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94825fa98d876ae4ab2f586cac713ea7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8b2031d41aa5bde458359c2be5bc89cb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 273a92afa7222aa49b7b8699c927deb9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 81ee23dd0f1436d46b401cdd15d6c966, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: be14b62cba60b8241917e65a560f50bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f25d0d318207909429341e0d0a4df9fc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7f6b1145afe76a4449dd6d0c398f9ddb, type: 2}
